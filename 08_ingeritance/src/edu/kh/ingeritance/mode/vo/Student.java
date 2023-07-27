@@ -1,7 +1,7 @@
 package edu.kh.ingeritance.mode.vo;
 
 public class Student extends Person {
-	// Student 클래스에 Person 클래스 뇽을 연장한다
+	// Student 클래스에 Person 클래스 내용을 연장한다
 	// Student 클래스에 Person 클래스 내용(필드, 메서드)을 추가하여 확장한다.
 	
 	//****상속***
